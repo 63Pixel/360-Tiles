@@ -1,2 +1,3 @@
 # 360-Tiles
-Extract tiles from (360°) images. You can choose how many tiles you want.
+Every photo that is in the script folder will be processed automatically. 
+The number of tiles can be determined during execution. the tiles are created in a separate folder.
